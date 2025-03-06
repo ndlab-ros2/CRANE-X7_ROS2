@@ -1,1 +1,2 @@
 # CRANE-X7_ROS2
+CRANE-X7のROS2用パッケージ
